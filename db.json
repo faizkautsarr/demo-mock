@@ -137,40 +137,6 @@
                 "availableColors": ["red", "black", "blue"],
                 "isVerifiedSeller": false
             },
-            {
-                "id": 9,
-                "name": "Koko Modern",
-                "price": "Rp 130,000",
-                "desc": "Kemeja Koko dengan desain modern",
-                "longDesc": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/12/19/047af21e-70c5-41c6-9179-c2cf2ec947a0.jpg",
-                "stock": 30,
-                "rating": 4.3,
-                "sold": 110,
-                "imageUrl": "https://id-test-11.slatic.net/p/1c4aa038fb1bcf377550ffe973f85987.jpg",
-                "sellerRegion": "Palembang",
-                "isNew": false,
-                "sellerName": "Toko 9",
-                "availableSizes": ["S", "M", "L", "XL"],
-                "availableColors": ["green", "black", "blue"],
-                "isVerifiedSeller": true
-            },
-            {
-                "id": 10,
-                "name": "Koko Abadi",
-                "price": "Rp 35,000",
-                "desc": "Topi dengan simbol Islam",
-                "longDesc": "Topi Muslim dengan simbol Islam yang khas. Tersedia dalam berbagai warna.",
-                "stock": 60,
-                "rating": 3.9,
-                "sold": 80,
-                "imageUrl": "https://id-test-11.slatic.net/p/a155dbb7939f22c13b2d5365d8e41907.jpg",
-                "sellerRegion": "Banda Aceh",
-                "isNew": true,
-                "sellerName": "Toko 10",
-                "availableSizes": ["S", "L", "XL"],
-                "availableColors": ["green", "black", "pink"],
-                "isVerifiedSeller": true
-            }
         ]
     }
 }
