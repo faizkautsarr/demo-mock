@@ -1,14 +1,86 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "products": [
+  {
+    "id": 1,
+    "nama": "Gamis Aisyah",
+    "harga": 150.0,
+    "deskripsi": "Gamis modern dengan motif bunga",
+    "diskon": 10,
+    "stok": 50
+  },
+  {
+    "id": 2,
+    "nama": "Koko Rafi",
+    "harga": 120.0,
+    "deskripsi": "Koko lengan panjang dengan warna netral",
+    "diskon": 0,
+    "stok": 30
+  },
+  {
+    "id": 3,
+    "nama": "Hijab Naura",
+    "harga": 80.0,
+    "deskripsi": "Hijab sifon yang ringan dan nyaman",
+    "diskon": 5,
+    "stok": 70
+  },
+  {
+    "id": 4,
+    "nama": "Celana Sirwal",
+    "harga": 60.0,
+    "deskripsi": "Celana sirwal polos dengan kantong",
+    "diskon": 0,
+    "stok": 40
+  },
+  {
+    "id": 5,
+    "nama": "Mukena Jasmine",
+    "harga": 200.0,
+    "deskripsi": "Mukena motif bunga yang elegan",
+    "diskon": 15,
+    "stok": 20
+  },
+  {
+    "id": 6,
+    "nama": "Tunik Farah",
+    "harga": 90.0,
+    "deskripsi": "Tunik dengan desain simpel dan modis",
+    "diskon": 0,
+    "stok": 60
+  },
+  {
+    "id": 7,
+    "nama": "Sarung Anwar",
+    "harga": 40.0,
+    "deskripsi": "Sarung katun yang nyaman dipakai",
+    "diskon": 8,
+    "stok": 80
+  },
+  {
+    "id": 8,
+    "nama": "Jilbab Zara",
+    "harga": 25.0,
+    "deskripsi": "Jilbab instan dengan berbagai pilihan warna",
+    "diskon": 0,
+    "stok": 90
+  },
+  {
+    "id": 9,
+    "nama": "Baju Koko Adam",
+    "harga": 110.0,
+    "deskripsi": "Baju koko dengan desain klasik",
+    "diskon": 12,
+    "stok": 35
+  },
+  {
+    "id": 10,
+    "nama": "Kerudung Pashmina",
+    "harga": 50.0,
+    "deskripsi": "Pashmina dengan tekstur lembut dan adem",
+    "diskon": 0,
+    "stok": 55
+  }
+],
   }
 }
