@@ -11,4 +11,16 @@
   "profile": {
     "name": "typicode"
   }
+  "products": [
+    {
+      "id": 1,
+      "name": "Gamis Aisyah",
+      "price": "Rp 150,000",
+      "discountPrice": "Rp 135,000",
+      "description": "Gamis modern dengan motif bunga",
+      "discount": 10,
+      "stock": 50,
+      "image": "https://source.unsplash.com/200x200/?muslim,clothing"
+    }
+  ]
 }
